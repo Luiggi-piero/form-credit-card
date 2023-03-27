@@ -1,0 +1,11 @@
+.fa-regular {
+  cursor: pointer;
+}
+
+.success {
+  border-color: #14C38E;
+}
+
+.error {
+  border-color: #ff2e63;
+}
